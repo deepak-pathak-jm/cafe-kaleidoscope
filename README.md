@@ -46,10 +46,12 @@ To run this project locally, follow the steps below.
 5-Screenshot
 
     -> Home Page
-![cafe-kaleidoscope-1](https://github.com/deepak-pathak-jm/cafe_kaleidoscope/assets/145651411/7d09cc4b-2e70-44e0-bbb9-264aacd12a5d)
-![cafe-kaleidoscope-2](https://github.com/deepak-pathak-jm/cafe_kaleidoscope/assets/145651411/dcd7e6fd-7784-44f8-94e1-cf9c480774e5)
-![cafe-kaleidoscope-3](https://github.com/deepak-pathak-jm/cafe_kaleidoscope/assets/145651411/a583f6cb-c841-47de-b3d1-17dcebe5536d)
+![cafe-kaleidoscope-1](https://github.com/deepak-pathak-jm/cafe-kaleidoscope/assets/145651411/34f3ce90-c9e8-4f73-b98d-932f039f356e)
+![cafe-kaleidoscope-2](https://github.com/deepak-pathak-jm/cafe-kaleidoscope/assets/145651411/9ab3b62d-27a2-42d5-9fb0-0bf209872a13)
+![cafe-kaleidoscope-3](https://github.com/deepak-pathak-jm/cafe-kaleidoscope/assets/145651411/81d3ab47-9960-4eae-b5c5-aea4ad180d17)
+
 
     -> Reservation Page
-![cafe-kaleidoscope-reservation](https://github.com/deepak-pathak-jm/cafe_kaleidoscope/assets/145651411/c050449c-e122-411d-a315-91157a4bc168)
+![cafe-kaleidoscope-reservation](https://github.com/deepak-pathak-jm/cafe-kaleidoscope/assets/145651411/43195d5c-dce1-47ae-8a50-fbf98a445184)
+
 
